@@ -6,7 +6,7 @@
         {
             Console.WriteLine("Teha if ja else konsoolirakendus");
 
-            int arv = 1955;
+            int arv = 189;
             //muutuja arv on täisarv ja võrdub 20
 
             //kontrollitakse, kas arv on suurem, kui 189
