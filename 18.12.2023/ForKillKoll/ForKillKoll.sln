@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForKillKoll", "ForKillKoll\ForKillKoll.csproj", "{C4BEE394-5751-4BDC-A2B5-F081C6981564}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4BEE394-5751-4BDC-A2B5-F081C6981564}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4BEE394-5751-4BDC-A2B5-F081C6981564}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4BEE394-5751-4BDC-A2B5-F081C6981564}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4BEE394-5751-4BDC-A2B5-F081C6981564}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB554837-B708-4B16-8F94-31A41F6D9626}
+	EndGlobalSection
+EndGlobal
