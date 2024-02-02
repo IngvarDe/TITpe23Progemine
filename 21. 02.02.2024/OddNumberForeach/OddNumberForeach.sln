@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddNumberForeach", "OddNumberForeach\OddNumberForeach.csproj", "{C6FE671B-200E-4DAF-9C48-43260BEA8BAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6FE671B-200E-4DAF-9C48-43260BEA8BAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6FE671B-200E-4DAF-9C48-43260BEA8BAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6FE671B-200E-4DAF-9C48-43260BEA8BAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6FE671B-200E-4DAF-9C48-43260BEA8BAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2647B90-A251-4E70-BAEA-3A4169A7728D}
+	EndGlobalSection
+EndGlobal
