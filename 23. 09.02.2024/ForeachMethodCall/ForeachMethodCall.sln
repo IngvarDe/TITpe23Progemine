@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForeachMethodCall", "ForeachMethodCall\ForeachMethodCall.csproj", "{FF3582C1-5573-489C-B35D-CB1646057BE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF3582C1-5573-489C-B35D-CB1646057BE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF3582C1-5573-489C-B35D-CB1646057BE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF3582C1-5573-489C-B35D-CB1646057BE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF3582C1-5573-489C-B35D-CB1646057BE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BACBAB96-8A0C-4B23-BFE1-C02C546924F4}
+	EndGlobalSection
+EndGlobal
