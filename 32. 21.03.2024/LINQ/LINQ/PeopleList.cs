@@ -41,6 +41,13 @@ namespace LINQ
                     Age = 17,
                     GenderId = Guid.Parse("34b30f10-bdb3-4d01-8115-3b66f6d2373e")
                 },
+                                new People()
+                {
+                    Id = 6,
+                    Name = "Mari",
+                    Age = 19,
+                    GenderId = Guid.Parse("34b30f10-bdb3-4d01-8115-3b66f6d2373e")
+                },
 
         };
     }
