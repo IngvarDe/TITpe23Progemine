@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkipTakeLINQ", "SkipTakeLINQ\SkipTakeLINQ.csproj", "{99849254-EF4F-4A94-8787-88F1B852DDB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99849254-EF4F-4A94-8787-88F1B852DDB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99849254-EF4F-4A94-8787-88F1B852DDB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99849254-EF4F-4A94-8787-88F1B852DDB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99849254-EF4F-4A94-8787-88F1B852DDB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD8CB7FC-E5F2-4E2B-A44C-3E658C0EE926}
+	EndGlobalSection
+EndGlobal
